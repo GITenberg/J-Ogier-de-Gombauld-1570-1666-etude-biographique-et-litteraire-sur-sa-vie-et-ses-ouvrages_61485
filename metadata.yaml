@@ -1,11 +1,16 @@
 _repo: J-Ogier-de-Gombauld-1570-1666-etude-biographique-et-litteraire-sur-sa-vie-et-ses-ouvrages_61485
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61485-h/images/cover.jpg
 creator:
   author:
     agent_name: Kerviler, René
     gutenberg_agent_id: '51455'
     url: http://www.gutenberg.org/2009/agents/51455
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61485#J-Ogier-de-Gombauld-1570-1666-etude-biographique-et-litteraire-sur-sa-vie-et-ses-ouvrages
 gutenberg_issued: '2020-02-22'
 gutenberg_type: Text
 identifiers:
